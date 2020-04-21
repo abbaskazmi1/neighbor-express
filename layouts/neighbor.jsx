@@ -66,7 +66,11 @@ const NeighborLayout = ({ children }) => {
             </li>
           </ul>
           <Link href="/request"><a className="usa-button" href="/request">
+<<<<<<< HEAD
             {cta.body}
+=======
+            {cta.body_en}
+>>>>>>> add header CTA
           </a>
           </Link>
         </nav>
